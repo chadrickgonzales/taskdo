@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-native-paper": "^5.13.1"
+  },
+  "devDependencies": {
+    "expo": "^52.0.42",
+    "typescript": "^5.3.3",
+    "@types/react": "~18.3.12"
+  }
+}
